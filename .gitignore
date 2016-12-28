@@ -1,2 +1,4 @@
 target/
 env.sh
+.idea/
+inv-indexes.iml
