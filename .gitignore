@@ -1,5 +1,4 @@
 target/
 env.sh
 .idea/
-hdfs/output
 inv-indexes.iml
