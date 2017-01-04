@@ -23,13 +23,13 @@ documents for each keyword sorted by the number of occurences of the given keywo
 
 ## 3. Hadoop and MapReduce Installation
 
-Prior to running this program, I installed the Hadoop File System on the cluster of 4 machines (including configuring the YARN resource-management platform).
+After testing the program locally, I installed the Hadoop File System on the cluster of 4 machines (including configuring the YARN resource-management platform) for testing on an actual cluster.
 I also copied the input files (169 files containing the IETF (Internet Engineering Task Force) protocol standards and draft standards) into the HDFS.
 
 ## 4. Implementation details
 
 
-## 5. issues encountered
+## 5. Issues encountered
 
 
 ## 6. Performance analysis
