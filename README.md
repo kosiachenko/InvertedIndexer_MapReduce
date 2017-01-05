@@ -27,7 +27,7 @@ After testing the program locally, I installed the Hadoop File System on the clu
 I also copied the input files (169 files containing the IETF (Internet Engineering Task Force) protocol standards and draft standards) into the HDFS.
 
 ## 4. Implementation details
-
+<img src="https://github.com/kosiachenko/InvertedIndexer_MapReduce/blob/master/images/program_flow.png" alt="Program flow"> 
 
 ## 5. Issues encountered
 
